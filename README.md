@@ -1,2 +1,2 @@
 # [Multi languages translator](https://multitranslate.netlify.app/)
-Using Microsoft Translator Text API
+React app using Microsoft Translator Text API
